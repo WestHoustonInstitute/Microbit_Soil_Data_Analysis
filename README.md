@@ -15,4 +15,4 @@ We have used keyestudio's "37 in 1 Starter Kit for BBC micro:bit". Check here an
 ### Example of a completed setup:
 <img src="https://github.com/user-attachments/assets/9cbe39e9-1c9e-44bc-bc7e-fa912aaed3cb" alt="Completed" width="500" height="500">
 
-### When the micro:bit's "A" button is pressed, micro:bit displays the moisture level ranging between [0,100] (0 means no moisture detected and 100 means soil is fully saturated).
+### When you import the .hex file to run on microbit, change the date and log frequency to your setting.
