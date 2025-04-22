@@ -13,6 +13,6 @@ We have used keyestudio's "37 in 1 Starter Kit for BBC micro:bit". Check here an
 
 ### After completing the instructions on Software Setup and Hardware Setup files you should have your project ready. 
 ### Example of a completed setup:
-<img src="https://github.com/user-attachments/assets/4ffb5ce8-ea9f-44f7-84ba-c70a9ef8a3c0" alt="Completed" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/9cbe39e9-1c9e-44bc-bc7e-fa912aaed3cb" alt="Completed" width="500" height="500">
 
 ### When the micro:bit's "A" button is pressed, micro:bit displays the moisture level ranging between [0,100] (0 means no moisture detected and 100 means soil is fully saturated).
