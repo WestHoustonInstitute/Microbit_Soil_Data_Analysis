@@ -9,7 +9,7 @@ We have used keyestudio's "37 in 1 Starter Kit for BBC micro:bit". Check here an
 * 1x Battery
 * 1x USB to USB-C Cable
 
-![list](https://github.com/user-attachments/assets/48e07f26-d444-4d3e-a994-d0298162884e)
+<img src="https://github.com/user-attachments/assets/48e07f26-d444-4d3e-a994-d0298162884e" alt="Completed" width="500" height="500">
 
 ### After completing the instructions on Software Setup and Hardware Setup files you should have your project ready. 
 ### Example of a completed setup:
