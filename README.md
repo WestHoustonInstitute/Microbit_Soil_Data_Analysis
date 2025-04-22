@@ -19,7 +19,7 @@ We have used keyestudio's "37 in 1 Starter Kit for BBC micro:bit". Check here an
 * Download the Software_Setup/microbit-data-log.hex and import it in the https://makecode.microbit.org website and open the file.
 * Change the date and log frequency to your setting.
 * Download the program and start logging data with your microbit.
-* After the logging, download the .txt file. After that download the Soil_Moisture_ML_Microbit.ipynb on the Software_Setup folder. Open the .ipynb file you just downloaded in Google Colab and follow the instructions to upload your .txt data to the Google Colab environment.
+* After the logging, download the .txt file. After that, download the Soil_Moisture_ML_Microbit.ipynb on the Software_Setup folder. Open the .ipynb file you just downloaded in Google Colab(https://colab.research.google.com) and follow the instructions to upload your .txt data to the Google Colab environment.
 
 <img src="https://github.com/user-attachments/assets/8350e635-72a6-4634-af07-5711f67c6f54" alt="ML" width="700" height="500">
 
