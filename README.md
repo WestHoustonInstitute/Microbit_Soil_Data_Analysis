@@ -1,4 +1,4 @@
-# Microbit Soil Data Analysis
+# Microbit Soil Moisture and Environmental Data Analysis
 
 This repository will:
 1. Help you **get started** with beginner electronics, microcontroller programming, data collection, and machine learning.
