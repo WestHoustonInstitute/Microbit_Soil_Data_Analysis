@@ -32,7 +32,7 @@ Follow the steps in the [`Software_Setup`](./Software_Setup/) folder:
 2. Start your micro:bit and let it log data (soil moisture, light, sound, temperature) for the desired time period.
 3. After logging, connect your micro:bit to your computer via USB.
 4. A `MICROBIT` drive will appear.
-5. Inside the drive, open the `.HTML` file — this will allow you to download your logged data as a `.txt` or `.csv` file to your computer.
+5. Inside the drive, open the `.HTML` file — this will allow you to download your logged data as a `.csv` file to your computer.
 
 # Step 3: Data Analysis and Machine Learning
 
@@ -42,7 +42,7 @@ Now it's time to analyze the data you just collected!
 2. Open **Google Colab**: https://colab.research.google.com
 3. In Google Colab:
     - Click **File → Upload Notebook** and upload the `Soil_Moisture_ML_Microbit.ipynb` file.
-    - Then click **Files → Upload Files** (left sidebar) and upload your `.txt` or `.csv` data file.
+    - Then click **Files → Upload Files** (left sidebar) and upload your `.csv` data file.
     - Update the filename in the notebook's `pd.read_csv()` line if needed.
 4. Run all the cells in the notebook: **Runtime → Run All**.
 5. You will explore:
